@@ -90,12 +90,12 @@ header .slogan {
     border-radius: 8px;
     font-size: 1.15rem;
     font-weight: 500;
-    color: #F5F5F5 !important; /* FORZADO: Texto Gris Claro */
+    color: #F5F5F5 !important; 
     text-shadow: none;
     background: transparent;
     cursor: pointer;
     box-shadow: transparent;
-    border: 1px solid rgba(245, 245, 245, 0.5); /* Gris Claro semi-transparente para el borde inicial */
+    border: 1px solid rgba(245, 245, 245, 0.5); 
     transition: 0.5s ease-in-out;
     user-select: none;
     margin-top: 2rem;
@@ -251,7 +251,7 @@ footer p {
     margin-top: 1rem; 
 }
 
-/* Estilos base para todos los botones de redes sociales */
+/* botones de redes sociales */
 .Link__facebook,
 .Link__instagram,
 .Link__whatsapp,
